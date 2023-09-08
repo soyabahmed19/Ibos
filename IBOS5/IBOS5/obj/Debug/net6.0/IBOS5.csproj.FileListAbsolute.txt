@@ -1,0 +1,7 @@
+D:\IBOS5\IBOS5\obj\Debug\net6.0\IBOS5.csproj.AssemblyReference.cache
+D:\IBOS5\IBOS5\obj\Debug\net6.0\IBOS5.GeneratedMSBuildEditorConfig.editorconfig
+D:\IBOS5\IBOS5\obj\Debug\net6.0\IBOS5.AssemblyInfoInputs.cache
+D:\IBOS5\IBOS5\obj\Debug\net6.0\IBOS5.AssemblyInfo.cs
+D:\IBOS5\IBOS5\obj\Debug\net6.0\IBOS5.csproj.CoreCompileInputs.cache
+D:\IBOS5\IBOS5\obj\Debug\net6.0\IBOS5.MvcApplicationPartsAssemblyInfo.cs
+D:\IBOS5\IBOS5\obj\Debug\net6.0\IBOS5.MvcApplicationPartsAssemblyInfo.cache
