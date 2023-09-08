@@ -1,0 +1,7 @@
+D:\Ibos2\Ibos2\obj\Debug\net6.0\Ibos2.csproj.AssemblyReference.cache
+D:\Ibos2\Ibos2\obj\Debug\net6.0\Ibos2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ibos2\Ibos2\obj\Debug\net6.0\Ibos2.AssemblyInfoInputs.cache
+D:\Ibos2\Ibos2\obj\Debug\net6.0\Ibos2.AssemblyInfo.cs
+D:\Ibos2\Ibos2\obj\Debug\net6.0\Ibos2.csproj.CoreCompileInputs.cache
+D:\Ibos2\Ibos2\obj\Debug\net6.0\Ibos2.MvcApplicationPartsAssemblyInfo.cs
+D:\Ibos2\Ibos2\obj\Debug\net6.0\Ibos2.MvcApplicationPartsAssemblyInfo.cache
